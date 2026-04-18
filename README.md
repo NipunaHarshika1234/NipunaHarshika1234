@@ -1,5 +1,8 @@
+<!-- IoT Themed Header Animation -->
 <div align="center">
- <img src="https://i.ibb.co/BGCxs22/hacker.gif" alt="hacker" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/>
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+ alt="iot animation" 
+ style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
@@ -64,6 +67,7 @@
 ---
 
 ## 🐍 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalaHarshika1234&theme=high-contrast&hide_border=true" />
 </p>
@@ -71,6 +75,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -83,6 +88,7 @@
 ---
 
 ## 💡 Motto
+
 <p align="center">
   <i>"Turning Ideas into Intelligent Systems 🚀"</i>
 </p>
