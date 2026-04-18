@@ -1,52 +1,76 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nirmala%20%F0%9F%9A%80&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Nirmala%20🚀&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">Hi, I'm Nirmala 👋</h2>
-<h4 align="center">🚀 IoT Engineer | 💻 Full-Stack Developer | 🌍 Problem Solver</h4>
+<div align="center">
+ <img src="https://i.ibb.co/BGCxs22/hacker.gif" alt="hacker" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/>
+</div>
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation">
+</div>
+
+<h1 align="center">Hi 👋, I'm Nirmala</h1>
+
+<h3 align="center">
+  🚀 IoT Engineer | 💻 Full-Stack Developer | 🌍 Problem Solver | 🔧 Embedded Systems Enthusiast
+</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NirmalaHarshika1234&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Final Year Computer Science Undergraduate  
-- 🔧 Passionate about **IoT Systems & Embedded Solutions**  
-- 🌐 Building scalable **Full-Stack Web Applications**  
-- 🔥 Focused on solving **real-world problems using technology**  
+- 🔧 Passionate about IoT & Embedded Systems  
+- 🌐 Full-Stack Web Application Developer  
+- 🔥 Focused on real-world problem solving  
 - 📍 Based in Sri Lanka  
 
 ---
 
-## 🚀 What I Do
-- ⚙️ Smart IoT Systems (ESP32, Arduino, Sensors)
-- 🌍 Full-Stack Apps (React, Firebase)
-- 🔗 Hardware + Software Integration
-- 📊 Real-Time Monitoring Systems
+## 🚀 Interests
+- 🌐 Full Stack Web Development  
+- ⚙️ IoT Smart Systems (ESP32, Arduino, Sensors)  
+- 🎮 Game Development  
+- 🎨 UI/UX & Graphic Designing  
+- 🧩 Problem Solving & Algorithms  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,java,mysql,arduino,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,html,css,firebase,mysql,mongodb,git,github,arduino,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NipunaHarshika1234&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=NipunaHarshika1234&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NirmalaHarshika1234&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalaHarshika1234&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaHarshika1234&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalaHarshika1234&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NipunaHarshika1234/NipunaHarshika1234/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalaHarshika1234&theme=high-contrast&hide_border=true" />
 </p>
 
 ---
@@ -71,10 +95,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NipunaHarshika1234&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
